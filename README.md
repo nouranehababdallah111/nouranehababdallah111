@@ -86,8 +86,7 @@ Performed comprehensive sales data analysis and built actionable dashboards for 
 ---
 
 ## 📫 Contact Me  
-✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 🌐 [Portfolio](https://gamma.app/docs/Nouran-Ehab-Abdallah-i5a3oca55debtxk?mode=doc)
-
+✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/)
 ---
 
 ✨ *"Data is the new oil, but insight is the new power."* ✨
