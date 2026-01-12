@@ -1,9 +1,11 @@
 #  Nouran Ehab Abdallah  
 **Data Scientist | ML Engineer**
 
-📍 Giza, Egypt | ✉️ [nouranehab58000@gmail.com](mailto:nouranehab58000@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) 
-📊 [Kaggle](https://www.kaggle.com/nouranehabab)
+📍 Giza, Egypt |  [nouranehab58000@gmail.com](mailto:nouranehab58000@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) 
+ [Kaggle](https://www.kaggle.com/nouranehabab)
+ [Hugging Face](https://huggingface.co/nouranehababdallah111)
+ 
 
 ---
 
@@ -60,9 +62,9 @@ Problem-Solving | Critical Thinking | Adaptability | Research | Time Management
 
 ---
 
-## 🚀 Projects  
+## Projects  
 
-### 📊 Fitbit Marketing Dashboard (Power BI)
+### Fitbit Marketing Dashboard (Power BI)
 **Tools:** Power BI, DAX  
 Created an end-to-end BI solution for global sales data (2011–2014) with dynamic dashboards.  
 🔗 [Repository Link](https://github.com/nouranehababdallah111/PowerBI-Sales-Analytics)
@@ -85,7 +87,7 @@ Performed comprehensive sales data analysis and built actionable dashboards for 
 
 ---
 
-## 📫 Contact Me  
+## Contact Me  
 ✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/)
 ---
 
