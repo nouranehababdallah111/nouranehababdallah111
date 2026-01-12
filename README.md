@@ -2,7 +2,7 @@
 **Data Scientist | ML Engineer**
 
 📍 Giza, Egypt |  [nouranehab58000@gmail.com](mailto:nouranehab58000@gmail.com)  
- [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) 
+ [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 
  [Kaggle](https://www.kaggle.com/nouranehabab) | 
  [Hugging Face](https://huggingface.co/nouranehababdallah111)
  
