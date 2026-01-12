@@ -19,7 +19,7 @@ Passionate about turning complex data into actionable insights and continuously 
 
 ---
 
-## 📜 Certifications  
+## Certifications  
 
 - **IBM Data Scientist Professional Certificate – DEPI (2025–Present)**  
 - **Data Analytics – NTI (2025)**  
@@ -28,7 +28,7 @@ Passionate about turning complex data into actionable insights and continuously 
 
 ---
 
-## 💼 Experience & Training  
+## Experience & Training  
 
 - **IBM Data Scientist Professional Certificate – DEPI (Jul 2025 – Present)**  
   Practical labs and projects in Python, SQL, data analysis, and ML; built data pipelines, performed EDA, and developed ML models.
@@ -41,7 +41,7 @@ Passionate about turning complex data into actionable insights and continuously 
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 **Languages & Libraries:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -72,14 +72,14 @@ Created an end-to-end BI solution for global sales data (2011–2014) with dynam
 
 ---
 
-### 🚴‍♂️ Bike Shop Sales Analysis
+### Bike Shop Sales Analysis
 **Tools:** Excel (PivotTables, Power Query), Data Modeling  
 Analyzed bike shop sales data and built interactive dashboards to track KPIs such as total sales and top products.  
 🔗 [Repository Link](https://github.com/nouranehababdallah111/Bike-Shop-Sales-Analysis)
 
 ---
 
-### 💼 Sales Data Analysis Project
+### Sales Data Analysis Project
 **Tools:** Excel, Data Modeling  
 Performed comprehensive sales data analysis and built actionable dashboards for business insights.  
 🔗 [Repository Link](https://github.com/nouranehababdallah111/Sales-Data-Analysis-Project)
@@ -88,7 +88,7 @@ Performed comprehensive sales data analysis and built actionable dashboards for 
 ---
 
 ## Contact Me  
-✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/)
+ [Email](mailto:nouranehab58000@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | [Whatsapp](https://wa.me/201559397687)
 ---
 
 ✨ *"Data is the new oil, but insight is the new power."* ✨
