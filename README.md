@@ -1,5 +1,5 @@
 #  Nouran Ehab Abdallah  
-**Data Scientist | ML Engineer**
+**Data Scientist**
 
 📍 Giza, Egypt |  [nouranehab58000@gmail.com](mailto:nouranehab58000@gmail.com)  
  [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 
@@ -88,7 +88,7 @@ Performed comprehensive sales data analysis and built actionable dashboards for 
 ---
 
 ## Contact Me  
- [Email](mailto:nouranehab58000@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | [Whatsapp](https://wa.me/201559397687)
+ [Email](mailto:nouranehab58000@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/)
 ---
 
 ✨ *"Data is the new oil, but insight is the new power."* ✨
